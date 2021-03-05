@@ -103,7 +103,7 @@ $ npm start
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Francisco Jorge, João Augusto, Lucas Velho, Jardel Brasiliano e Jhones.
+Feito com ❤️ por Francisco Jorge, João Augusto, Lucas Velho, Jardel Brasiliano e Johnes Henrique.
 
 
 [reactjs]: https://reactjs.org
